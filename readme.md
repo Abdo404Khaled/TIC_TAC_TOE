@@ -16,7 +16,7 @@ This Python implementation of the classic Tic-Tac-Toe game offers a variety of g
   - **MiniMax (for Player vs Computer mode):** Minimax is a decision-making algorithm used in two-player games where the goal is to minimize the possible loss for a worst-case scenario.
 
 ## How to Play
-1. **Clone the repository:** `git clone https://github.com/Abdo404Khaled/tic-tac-toe.git`
+1. **Clone the repository:** `git clone https://github.com/Abdo404Khaled/TIC_TAC_TOE.git`
 2. **Run the game:** `python tic_tac_toe.py`
 3. **Choose the game mode:** Follow the on-screen instructions to select Player vs Player or Player vs Computer.
 4. **Select the search algorithm:** If playing against the computer, choose from the available search algorithms.
